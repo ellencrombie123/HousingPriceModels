@@ -1,2 +1,2 @@
 # HousingPriceModels
-Collection of analyses performed within group projects at Edinburgh University
+Analysis performed within group projects at Edinburgh University
